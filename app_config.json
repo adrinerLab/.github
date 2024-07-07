@@ -1,0 +1,10 @@
+{
+  "languages": [
+    "ko"
+  ],
+  "urls": {
+    "api": "https://api.adrinerlab.co.kr",
+    "config": "https://assets.adrinerlab.co.kr/app_config.json",
+    "assets": "https://assets.adrinerlab.co.kr"
+  }
+}
